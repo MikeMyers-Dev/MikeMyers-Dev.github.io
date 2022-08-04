@@ -1,2 +1,6 @@
 # MikeMyers-Dev.github.io
-This is the beginning of my portfolio, I can't wait to expand on what we learn here and hopefully write phenominal code!!
+My name is Mike Myers
+Currently, I do not have any projects.
+I am focused on code logic and completing this course successfully!
+My email is vikingteufel@gmail.com
+
