@@ -1,4 +1,6 @@
-# MikeMyers-Dev.github.io
+# My Portfolio  
+## This is the start of my portfolio
+
 My name is Mike Myers <br>
 Currently, I do not have any projects. <br>
 I am focused on code logic and completing this course successfully! <br>
